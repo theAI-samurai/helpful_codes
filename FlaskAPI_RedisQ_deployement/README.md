@@ -21,3 +21,5 @@
 
 #### * *check on Result for a job id * *
 ```curl http://localhost:5000/result/<job_id>```
+
+#### Flask API
